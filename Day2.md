@@ -6,7 +6,7 @@ LeetCode : https://leetcode.com/problems/rotate-image/
 
 2.Merge Overlapping Subintervals :
  
-3.Merge two sorted arrays without extra space
+3.Merge two sorted arrays without extra space : Merge Sorted Array :
 
 4.Find the duplicate in an array of N+1 integers
 
