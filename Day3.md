@@ -1,4 +1,5 @@
 #Day 3 :
 
-1. Search a 2D Matrix :
+1. Search a 2D Matrix : https://github.com/div-yash/DSA/blob/2b4f4eb9f5ef81970d3e545ac75f9564750fe9e9/Search%20a%202D%20Matrix.java
+   
    LeetCode :https://leetcode.com/problems/search-a-2d-matrix/description/
