@@ -8,7 +8,9 @@
 
   LeetCode : https://leetcode.com/problems/powx-n/
 
-3.Majority Element (>n/2 times)
+3.Majority Element (>n/2 times) : https://github.com/div-yash/DSA/blob/025f1eae2ecd73302becea69672881d791e0ddf7/Majority%20Element.java
+
+  LeetCode : https://leetcode.com/problems/majority-element/description/
 
 4.Majority Element (n/3 times)
 
