@@ -12,6 +12,6 @@
 
 5.Sort an array of 0's, 1's and 2's -
 
-6.Best Time to Buy and Sell Stock -
+6.Best Time to Buy and Sell Stock - https://github.com/div-yash/DSA/blob/641971f64cefcc3f0dc8aa1c1df8db31be0e52a2/Stock%20Buy%20And%20Sell.java
 
 
