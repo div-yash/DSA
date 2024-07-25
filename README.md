@@ -10,4 +10,8 @@
 
 4.Kadane's Algorithm : Maximum Subarray Sum in an Array - https://github.com/div-yash/DSA/blob/27cf565488bff624b67f5842a2f2ed5f114fe8c4/MaximumSubarray.java
 
+5.Sort an array of 0's, 1's and 2's -
+
+6.Best Time to Buy and Sell Stock -
+
 
