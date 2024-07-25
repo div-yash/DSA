@@ -1,7 +1,8 @@
 # DAY 2 :
 
 1.Rotate Image : https://github.com/div-yash/DSA/blob/bef43cbabf8b7cd84ac8ef0a968f4547f6bce3d5/Rotate%20Image.java
-   LeetCode : https://leetcode.com/problems/rotate-image/ 
+   
+LeetCode : https://leetcode.com/problems/rotate-image/ 
 
 2.Merge Overlapping Subintervals :
  
