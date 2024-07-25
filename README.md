@@ -6,6 +6,8 @@
 
 2.Pascal's Triangle -
 
-3.Next Permutation -
+3.Next Permutation : find next lexicographically greater permutation - 
 
 4.Kadane's Algorithm : Maximum Subarray Sum in an Array - https://github.com/div-yash/DSA/blob/27cf565488bff624b67f5842a2f2ed5f114fe8c4/MaximumSubarray.java
+
+
