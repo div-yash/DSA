@@ -11,7 +11,9 @@ LeetCode : https://leetcode.com/problems/rotate-image/
 LeetCode : https://leetcode.com/problems/merge-sorted-array/
 
 
-4.Find the duplicate in an array of N+1 integers
+4.Find the duplicate in an array of N+1 integers : https://github.com/div-yash/DSA/blob/5de6b2b1eb52fcd8b6b130f09872f9587cb60231/Find%20the%20Duplicate%20Number.java
+
+LeetCode : https://leetcode.com/problems/find-the-duplicate-number/
 
 5.Repeat and Missing Number
 
