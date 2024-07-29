@@ -6,7 +6,9 @@ LeetCode : https://leetcode.com/problems/two-sum/
 
 2.4-Sum Problem
 
-3.Longest Consecutive Sequence
+3.Longest Consecutive Sequence : https://github.com/div-yash/DSA/blob/3d3dae9304fcaad944760de58b82f6ea0cd0e021/Longest%20Consecutive%20Sequence.java
+
+LeetCode : https://leetcode.com/problems/longest-consecutive-sequence/
 
 4.Largest Subarray with K sum
 
