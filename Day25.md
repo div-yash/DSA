@@ -14,4 +14,6 @@ LeetCode : https://leetcode.com/problems/maximum-product-subarray/
 
 6.Maximum sum increasing subsequence
 
-7.Matrix Chain Multiplication
+7.Matrix Chain Multiplication : https://github.com/div-yash/DSA/blob/38b5a84cfe6fc261b95953425eb073b809bec4db/Matrix%20Chain%20Multiplication.java
+
+GFG : https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1
