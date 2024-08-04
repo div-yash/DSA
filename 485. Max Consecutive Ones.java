@@ -1,3 +1,5 @@
+https://leetcode.com/problems/max-consecutive-ones/
+
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
         int count=0;
